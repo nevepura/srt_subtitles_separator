@@ -15,4 +15,4 @@ Put the script and the target file in the same folder.
 
 Input: `file_name.srt`\
 Output: `file_name_edited.srt`\
-From terminal run: `$ python3 separate_srt.subtitles.py file_name.srt`
+From terminal run: `python3 separate_srt.subtitles.py file_name.srt`
